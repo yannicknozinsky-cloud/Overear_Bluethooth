@@ -9,8 +9,7 @@ https://github.com/user-attachments/assets/2f6a19ca-8f20-4ca4-b843-26740fbcb754
 
 ![YN_geklappt](https://github.com/user-attachments/assets/ca8d54b5-c71e-46f5-aba8-fa45d7e2ad73)
 ![YN_offen](https://github.com/user-attachments/assets/7c5035a6-8edd-4697-a5f9-8f4c357a074a)
-![YN_geklappt](https://github.com/user-attachments/assets/e74a7925-429c-4c6b-b0fb-83904b4c1621)
 
 
-https://github.com/user-attachments/assets/a80d43b7-aae6-4977-a3b3-35ba3d1f721e
-
+![KS®885315159 13 (2)](https://github.com/user-attachments/assets/ff5ff8e9-1daa-4579-aa18-c51bbb91ab49)
+![KS®225533325 11 (2)](https://github.com/user-attachments/assets/bd8e6f1a-421f-4b14-8dd2-5a4695f3b6bb)
