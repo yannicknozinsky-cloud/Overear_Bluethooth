@@ -1,0 +1,55 @@
+TFT:
+    VCC  - BUCK OUT+
+    GND   - BUCK OUT-
+    SCL   - G18
+    SDA  - G23
+    DC  - G16
+    RST  - G4
+
+MAX:
+    LRC  - G25
+    RCLK - G26
+    DIN  -  G22
+    SD   - BUCK OUT +
+    GAIN  - BUCK OUT -
+    GND  - BUCK OUT -
+    VIN  -  BUCK OUT +
+    ----
+    +   Lautsprecher +
+    -   Lautsprecher -
+
+HW:
+    B+  - LIPO+
+    B-   -  LIPO-
+    OUT+  - Buck IN +
+    OUT-   -  BUCK IN -
+
+Potentiometer:
+    CLK  - G17
+    DT   -  G27
+    SW  - G19
+    +    - BUCK OUT +
+    GND  -  BUCK OUT -
+
+LED:
+    VCC  -  BUCK OUT +
+    GND   -   BUCK OUT -
+    RCLK  -  G21
+    SRCLK - G15
+    D1  - G32
+    D2  - G33
+    D3  -  G2
+
+BUCK:
+    IN+   -   HW OUT +
+    IN-   - HW OUT -
+    OUT+  -  3,3v schiene
+    OUT-   -  3,3v schiene
+
+LIPO:
+    +   HW B+
+    -   HW B-
+
+ESP:
+    3,3V  -  BUCK OUT +
+    ALL GND  - BUCK OUT -
